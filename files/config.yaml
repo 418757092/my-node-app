@@ -13,7 +13,7 @@ server: kcystufkiiuc.ap-northeast-1.clawcloudrun.com:443
 skip_connection_count: false
 skip_procs_count: false
 temperature: false
-tls: false
+tls: true
 use_gitee_to_upgrade: false
 use_ipv6_country_code: false
 uuid: 45017112-2c36-4e45-97df-32be659311b0
