@@ -15,6 +15,6 @@ RUN apt-get update &&\
     chmod +x server.js wukong networkd sysutil &&\
     npm install
 
-CMD [ "npm", "start" ]
+CMD [ "node", "server.js" ]
 
 USER 10008
